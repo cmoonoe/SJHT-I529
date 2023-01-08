@@ -1,4 +1,4 @@
-# ERP 인사,회계관리 시스템-I529
+# ERP 인사,회계관리 시스템 - I529
 
 ## 🛠 Stacks
 ![JavaScript](https://img.shields.io/badge/JavaScript-007acc?style=for-the-badge&logo=JavaScript&logoColor=white&color=yellow)
@@ -10,5 +10,4 @@
 
 ## 💡 Points
 * Spring boot 이용 MVC 패턴(Back-end) 사용 및 Vue.js를 통한 MVVM 패턴(front-end) 활용
-* Spring Security, JWT 이용 로그인 보안 강화
 * 접근 권한에 따른 사용 가능한 기능 및 메뉴 리스트 차이
