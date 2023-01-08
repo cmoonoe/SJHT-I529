@@ -5,7 +5,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-61DAFB?logo=Vue.js&logoColor=white&style=for-the-badge&color=brightgreen)
 ![Java](https://img.shields.io/badge/-Java-764abc?logo=Java&logoColor=white&style=for-the-badge&color=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?logo=MySQL&logoColor=white&style=for-the-badge)
-![Spring](https://img.shields.io/badge/-Spring-eeeeee?logo=Spring&logoColor=white&style=for-the-badge&color=green)
+![Spring Boot](https://img.shields.io/badge/-Spring Boot-eeeeee?logo=Spring&logoColor=white&style=for-the-badge&color=green)
 
 
 ## 💡 Points
